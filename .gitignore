@@ -36,3 +36,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+*.sqlite
+
+.env
+*.db
+
+### Agent Rules ###
+GEMINI.md
+AGENTS.md
+.agent/
+.agents/
