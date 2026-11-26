@@ -43,7 +43,7 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Members agree to review each other’s work constructively.
 
-* Each Pull Request will be reviewed by at least two team members.
+* Each Pull Request will be reviewed by at least one other team member.
 
 ---
 ## Conflict resolution
